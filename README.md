@@ -64,9 +64,3 @@
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
   </p>
 </details>
-
----
-
-## 📊 My Stats
-<img src="https://komarev.com/ghpvc/?username=allenalvin333&label=Profile%20views&color=12171f&style=flat" alt="profile_views"/>
-<img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=allenalvin333&theme=react&hide_border=true&background=000000/" alt="github_streaks"/>
