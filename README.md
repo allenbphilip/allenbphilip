@@ -1,16 +1,15 @@
 ![head](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&customColorList=12&animation=fadeIn)
 
-<a href="https://www.linkedin.com/in/allenbphilip/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"></a>
-<a href="https://github.com/allenalvin333/allenalvin333/raw/master/Assets/Resume.pdf"><img src="https://img.shields.io/badge/Resume-3E41A0?style=for-the-badge"></a>
-<a href="mailto:allenbphilip@gmail.com"><img src="https://img.shields.io/badge/Gmail-CD1A0A?style=for-the-badge"></a>
-<a href="https://abphilip.com/"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge"></a>
+<a href="https://www.linkedin.com/in/allenbphilip/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=logmein&logoColor=white"></a>
+<a href="https://github.com/allenbphilip/allenbphilip/blob/master/Assets/Resume.pdf"><img src="https://img.shields.io/badge/Resume-3E41A0?style=for-the-badge&logo=libreoffice&logoColor=white"></a>
+<a href="mailto:allenbphilip@gmail.com"><img src="https://img.shields.io/badge/Gmail-CD1A0A?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://allenbphilip.com/"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=googlegemini&logoColor=white"></a>
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line_break"></a>
 
 ## 📁 Directories
-[<img alt='Academics' src="/Assets/Logo/v2/README/Academics.png" width="100">](https://github.com/abphilip-academics/)
-[<img alt='Work' src="/Assets/Logo/v2/README/Work.png" width="100">](https://github.com/abphilip-work/)
-[<img alt='Resources' src="/Assets/Logo/v2/README/Resources.png" width="100">](https://github.com/abphilip-resources/)
+[<img alt='Academics' src="/assets/Logo/v2/README/Academics.png" width="100">](https://github.com/allenbphilip-academics/)
+[<img alt='Resources' src="/assets/Logo/v2/README/Resources.png" width="100">](https://github.com/allenbphilip-resources/)
 
 ---
 
@@ -33,7 +32,7 @@
     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
     <img alt="GCP" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?&style=for-the-badge&logo=googlecloud&logoColor=white"/>
     <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-%23F38020.svg?&style=for-the-badge&logo=Cloudflare&logoColor=white"/>  
-    <img alt="AWS" src="https://img.shields.io/badge/Amazon%20Web%20Services-%23232F3E.svg?&style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+    <img alt="AWS" src="https://img.shields.io/badge/Amazon%20Web%20Services-%23232F3E.svg?&style=for-the-badge&logo=icloud&logoColor=white"/>
     <img alt="NodeRED" src="https://img.shields.io/badge/NodeRed-%238F0000.svg?&style=for-the-badge&logo=node-red&logoColor=white"/>
     <img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-%23F2C811.svg?&style=for-the-badge&logo=googlebigquery&logoColor=black"/>
   </p>
@@ -56,7 +55,7 @@
   <p>
     <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
     <img alt="HTML" src="https://img.shields.io/badge/HTML-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-    <img alt="CSS" src="https://img.shields.io/badge/CSS-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-%231572B6.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white"/>
     <img alt="JS" src ="https://img.shields.io/badge/Javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
     <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
     <img alt="SQL" src="https://img.shields.io/badge/SQL-%234479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
