@@ -1,19 +1,18 @@
 ![head](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&customColorList=12&animation=fadeIn)
 
-<a href="https://www.linkedin.com/in/allenbphilip/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=logmein&logoColor=white"></a>
-<a href="https://github.com/allenbphilip/allenbphilip/blob/master/Assets/Resume.pdf"><img src="https://img.shields.io/badge/Resume-3E41A0?style=for-the-badge&logo=libreoffice&logoColor=white"></a>
-<a href="mailto:allenbphilip@gmail.com"><img src="https://img.shields.io/badge/Gmail-CD1A0A?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://allenbphilip.com/"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=googlegemini&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/allenbphilip/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"></a>
+<a href="https://github.com/allenbphilip/allenbphilip/blob/master/assets/allenbphilip.pdf"><img src="https://img.shields.io/badge/Resume-3E41A0?style=for-the-badge"></a>
+<a href="mailto:allenbphilip@gmail.com"><img src="https://img.shields.io/badge/Gmail-CD1A0A?style=for-the-badge"></a>
+<a href="https://allenbphilip.com/"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge"></a>
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line_break"></a>
 
-## 📁 Directories
-[<img alt='Academics' src="/assets/Logo/v2/README/Academics.png" width="100">](https://github.com/allenbphilip-academics/)
-[<img alt='Resources' src="/assets/Logo/v2/README/Resources.png" width="100">](https://github.com/allenbphilip-resources/)
+### 📁 Directories
+[<img alt='Academics' src="/assets/logo/academics.png" width="100">](https://github.com/allenbphilip-academics/)
+[<img alt='Resources' src="/assets/logo/resources.png" width="100">](https://github.com/allenbphilip-resources/)
 
----
 
-## 🗃️ Tech Stack
+### 🗃️ Tech Stack
 <details>
   <summary><b>Tools</b></summary><br/>
   <p>
