@@ -8,8 +8,8 @@
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line_break"></a>
 
 ### 📁 Directories
-[<img alt='Academics' src="/assets/logo/academics.png" width="100">](https://github.com/allenbphilip-academics/)
-[<img alt='Resources' src="/assets/logo/resources.png" width="100">](https://github.com/allenbphilip-resources/)
+[<img alt='Academics' src="assets/logo/academics.png" width="100">](https://github.com/allenbphilip-academics/)
+[<img alt='Resources' src="assets/logo/resources.png" width="100">](https://github.com/allenbphilip-resources/)
 
 
 ### 🗃️ Tech Stack
